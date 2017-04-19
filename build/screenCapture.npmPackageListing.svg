@@ -1,0 +1,27 @@
+<svg height="382" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="382" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 15:10:25 +0000    14922 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 15:10:25 +0000     1073 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 15:10:25 +0000      722 bytes  bin/cmd.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 15:10:25 +0000      156 bytes  bin/usage.txt</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 15:10:25 +0000      845 bytes  example/bundle.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 15:10:25 +0000      153 bytes  example/collapse.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 15:10:25 +0000       47 bytes  example/src/bar.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 15:10:25 +0000       82 bytes  example/src/foo.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 15:10:25 +0000       93 bytes  example/src/main.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 15:10:25 +0000      384 bytes  index.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 15:10:25 +0000      831 bytes  lib/replace.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 15:10:25 +0000     2530 bytes  package.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 15:10:25 +0000      475 bytes  plugin.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 15:10:25 +0000     2340 bytes  readme.markdown</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 15:10:25 +0000      788 bytes  test/collapse.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 15:10:25 +0000      845 bytes  test/collapse/bundle.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 15:10:25 +0000      362 bytes  test/collapse/expected.json</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 15:10:25 +0000      503 bytes  test/non-ascii.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 15:10:25 +0000      684 bytes  test/non-ascii/non-ascii.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 15:10:25 +0000      788 bytes  test/return.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 15:10:25 +0000      852 bytes  test/return/bundle.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 15:10:25 +0000      369 bytes  test/return/expected.json</tspan>
+</text>
+</svg>
